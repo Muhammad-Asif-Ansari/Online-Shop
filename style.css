@@ -1,0 +1,59 @@
+body{
+    background-color: rgba(190, 72, 155, 0.311);
+}
+.vip{
+    padding: 5px 5px 2px;
+    border: 4px solid rgb(99, 95, 160);
+    font-size: large;
+    font: inherit;
+    font-weight: bold;
+}
+.vip:hover{
+    background-color: blueviolet;
+}
+.vip:active{
+    background-color: chocolate;
+}
+input.text:focus{
+    color: rgb(135, 30, 255);
+}
+.note{
+    border-radius: inherit;
+    box-sizing: content-box;
+    color: 2px solid black;
+}
+label{
+    font-size: medium;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.web{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+    font-weight: bold;
+}
+select option{
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+a:link{
+    color: rgb(199, 36, 101);
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(240, 134, 41);
+}
+a:visited{
+    color: rgb(23, 172, 112);
+}
+a:active{
+    color: rgb(30, 20, 220);
+}
+a{
+    font-size: large;
+    font-weight: 500;
+}
+
+h1,h2{
+    color: rgb(100, 58, 0);
+}
